@@ -1,34 +1,21 @@
-## Hi there 👋, I'm Pranav Bansal!
+# A competitive programmer and a web development enthusiast.
 
-I am a **B.Tech CSE (AI/DS)** student passionate about leveraging technology to create impactful projects. My interests lie in:
+![Profile views](https://komarev.com/ghpvc/?username=PranavBansal&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔧 Developing **real-world tech solutions**.
-- 💻 Programming in **C++ / C / Java / Javascript / Python ** and exploring efficient algorithms.
-- 🌐 Building intuitive and responsive **web applications**.
-- 🤖 Diving into the world of **Artificial Intelligence** and **Data Science**.
+## 🏆 Achievements
+| **Category**    | **Badge**           | **Points** |
+|------------------|---------------------|------------|
+| **Commits**      | Middle Committer 🏅  | 42 pt      |
+| **Repositories** | Middle Repo Creator 🏅 | 13 pt      |
+| **Experience**   | Junior Dev 🏅         | 7 pt       |
+| **Issues**       | First Issue 🥉       | 1 pt       |
+| **Pull Requests**| First Pull 🥉        | 5 pt       |
 
----
+## 📫 How to reach me
+- 📧 [collabwithpranav@gmail.com](mailto:collabwithpranav@gmail.com)
 
-### 🔭 Currently Working On:
-- Enhancing my skills in **AI/DS** through hands-on projects.
-- Exploring **medical image analysis**, specifically in cancer detection using CNNs.
-
-### 🌱 Currently Learning:
-- Advanced **deep learning techniques** and **frameworks**.
-- Best practices in **full-stack web development**.
-
----
-
-### 💬 Ask Me About:
-- Tech project ideas.
-- Programming challenges in C++.
-- Basics of AI/ML and web development.
-
-### 📫 How to Reach Me:
-- **Email:** [collabwithpranav@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/prannnav/]
-
----
-
-### ⚡ Fun Fact:
-I love connecting theoretical concepts with practical applications, whether it’s crafting AI solutions or developing websites that simplify life. 🚀
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prannnav/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/PranavBansal)
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/)
