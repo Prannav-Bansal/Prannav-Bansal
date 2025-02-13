@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pranav Bansal!
 
-I am a **B.Tech CSE (AI/DS)** student passionate about leveraging technology to create impactful projects. My interests include:
+Sophomore **B.Tech CSE (AI/DS)** student passionate about leveraging technology to create impactful projects. My interests include:
 
 - 🔧 Developing real-world tech solutions.
 - 💻 Programming in **C++, C, Java, JavaScript, and Python** while exploring efficient algorithms.
