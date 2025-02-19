@@ -16,6 +16,7 @@ Sophomore **B.Tech CSE (AI/DS)** student passionate about leveraging technology 
 ## 🌱 Currently Learning:
 - Advanced **deep learning techniques** and frameworks.
 - Best practices in **full-stack web development**.
+-  I’m interested in learning about GenAI Models,RAG's & LLM's
 
 ---
 
