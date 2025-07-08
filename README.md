@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0C76E8&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=B.Tech+CSE+(AI/DS)+Student;Full-stack+%7C+GenAI+%7C+AI%2FML+Developer;Passionate+Coder+%7C+Project+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Prannav-Bansal&label=Profile%20views&color=0e75b6&style=flat" alt="Prannav-Bansal" />
-</p>
-
 
 <p align="left">
   <a href="https://twitter.com/" target="blank">
