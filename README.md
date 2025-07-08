@@ -13,50 +13,11 @@
 
 ---
 
-### 🛠️ My Stack Arsenal:
-> ⚔️ Slicing bugs with:  
-```c++
-🧠 C++ | 🐍 Python | ☕ Java | 🌐 JavaScript | 🗄️ SQL
-```
-
----
-
 ### 💡 I Build:
 - ⚙️ **Full-stack web apps** with **MERN** stack  
 - 🧬 **AI/ML solutions** for real-world problems  
 - 🧠 Intelligent agents using **LLMs + RAG** pipelines  
 - 🔐 Secure backends with **JWT, Auth, Microservices**
-
----
-
-## 🔭 Currently Working On:
-- 🩻 **Medical image analysis** using CNNs  
-- 🌍 Scalable APIs with **Node.js + Express + MongoDB**  
-- 🧙‍♂️ RAG pipelines with **LangChain** & **LlamaIndex**  
-- 🔐 Auth Systems: **JWT**, **Role-based Access**, **API security**
-
----
-
-## 🌱 Currently Learning:
-- Advanced **deep learning techniques** and frameworks  
-- Best practices in **full-stack web development**  
-- Exploring **GenAI Models**, **RAG pipelines**, and **LLMs**
-
----
-
-## 💬 Ask Me About:
-- Tech project ideas  
-- Debugging C++ problems  
-- Basics of AI/ML and web dev
-
----
-
-## 📫 Reach Me:
-- 📧 Email: [collabwithpranav@gmail.com](mailto:collabwithpranav@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/prannnav](https://linkedin.com/in/prannnav)  
-- 🧑‍💻 GitHub: [github.com/Prannav-Bansal](https://github.com/Prannav-Bansal)
-
----
 
 ## ⚡ Fun Fact:
 I enjoy connecting theoretical concepts with practical applications—whether it’s crafting AI solutions or developing websites that simplify life. 🚀
@@ -99,15 +60,26 @@ I enjoy connecting theoretical concepts with practical applications—whether it
   <img src="https://github-profile-trophy.vercel.app/?username=Prannav-Bansal&theme=tokyonight&no-bg=true&margin-w=4" />
 </p>
 
+
+
+## 🌱 Currently Learning:
+- Advanced **deep learning techniques** and frameworks  
+- Best practices in **full-stack web development**  
+- Exploring **GenAI Models**, **RAG pipelines**, and **LLMs**
+
 ---
 
-## 🐍 Snake Game (GitHub Contributions)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prannav-Bansal/Prannav-Bansal/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
-</p>
+## 💬 Ask Me About:
+- Tech project ideas  
+- Debugging C++ problems  
+- Basics of AI/ML and web dev
 
 ---
+
+## 📫 Reach Me:
+- 📧 Email: [collabwithpranav@gmail.com](mailto:collabwithpranav@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/prannnav](https://linkedin.com/in/prannnav)  
+- 🧑‍💻 GitHub: [github.com/Prannav-Bansal](https://github.com/Prannav-Bansal)
 
 ## 🌐 Socials
 
