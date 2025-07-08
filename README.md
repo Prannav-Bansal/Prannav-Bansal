@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0C76E8&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=B.Tech+CSE+(AI/DS)+Student;Full-stack+%7C+GenAI+%7C+AI%2FML+Developer;Passionate+Coder+%7C+Project+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
-<!-- Animated Developer GIF -->
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<a href="https://vaunt.dev/">
-  <img src="https://api.vaunt.dev/v1/github/entities/Prannav-Bansal/contributions?format=svg" width="350" />
-</a>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Prannav-Bansal&label=Profile%20views&color=0e75b6&style=flat" alt="Prannav-Bansal" />
 </p>
@@ -83,11 +76,6 @@ I enjoy connecting theoretical concepts with practical applications—whether it
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prannav-Bansal&theme=tokyonight&no-bg=true&margin-w=4" />
 </p>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🌱 Currently Learning:
 - Advanced **deep learning techniques** and frameworks  
